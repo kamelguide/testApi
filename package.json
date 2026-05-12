@@ -1,0 +1,13 @@
+{
+  "name": "testapi",
+  "version": "1.0.0",
+  "description": "Simple Node.js project initialized for testApi",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["node", "api", "weather"],
+  "author": "",
+  "license": "ISC"
+}
