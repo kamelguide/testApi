@@ -7,7 +7,14 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["node", "api", "weather"],
+  "keywords": [
+    "node",
+    "api",
+    "weather"
+  ],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.16.0"
+  }
 }
