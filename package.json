@@ -2,10 +2,10 @@
   "name": "testapi",
   "version": "1.0.0",
   "description": "Simple Node.js project initialized for testApi",
-  "main": "index.js",
+  "main": "axiostest.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node axiostest.js"
   },
   "keywords": [
     "node",
