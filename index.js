@@ -16,7 +16,8 @@ console.error("Error fetching weather data:", error);
 return;
 
 }
-console.log("Weather data for", weatherData.name + ":", weatherData.main.temp, + "°C");
+
+console.log("Weather data for", weatherData.name + ":", weatherData);
 });}
 
-displayWeatherData("sousse");
+displayWeatherData("Sousse");
